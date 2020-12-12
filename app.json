@@ -1,0 +1,12 @@
+{
+  "name": "madsessional2",
+  "displayName": "madsessional2",
+  "expo": {
+    "name": "madsessional2",
+    "slug": "madsessional2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
